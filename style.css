@@ -1,0 +1,196 @@
+
+header {
+    object-fit: cover;
+}
+
+.navi {
+    padding: 0 15px 0 15px;
+}
+
+.heading1 {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+}
+
+
+.szoveg1 {
+    font-family: 'Merriweather', serif;
+    text-align: justify;
+    padding-bottom: 30px;
+}
+
+.piroshatter {
+    background-color: rgba(201, 18, 18, 1);
+}
+
+.lab_adatok {
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    padding: 30px;
+    height: 90px;
+    font-family: 'Merriweather', serif;
+}
+
+.tour {
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 40px;
+    padding-bottom: 25px;
+}
+
+.jegyek a:link, .jegyek a:visited {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Merriweather', serif;
+}
+
+.jegyek a:hover {
+    background-color: rgba(201, 18, 18, 1);
+    color: white;
+    font-family: 'Merriweather', serif;
+}
+
+.honap {
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-family: 'Merriweather', serif;
+}
+
+.datum {
+    border-bottom: 1px solid #555555;
+    margin: 20px;
+    font-family: 'Merriweather', serif;
+}
+
+.album_cim {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+}
+
+.album_kep {
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.discography {
+    text-align: justify;
+    font-family: 'Merriweather', serif;
+}
+
+.video {
+    text-align: center;
+    padding-bottom: 80px;
+}
+
+.name {
+    text-align: justify;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+}
+
+.name a:link, .name a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.name a:hover {
+    background-color: rgba(201, 18, 18, 1);
+    color: white;
+}
+
+.name1 {
+    text-align: justify;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+}
+
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+    height: 40px;
+    width: 70px;
+}
+
+.button {
+    font-style: normal;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.tagok_szoveg {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.kep {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+
+.biography {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Merriweather', serif;
+}
+
+.shop {
+    font-family: 'Metal Mania', cursive;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 80px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.shop a:link, .shop a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+.shop a:hover {
+    background-color: rgba(201, 18, 18, 1);
+    color: white;
+}
+
+
+.termek_kep {
+    text-align: center;
+}
+
+
+.termek_szoveg {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.termek_ar {
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: 'Merriweather', serif;
+}
+
+
